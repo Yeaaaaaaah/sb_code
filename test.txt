@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lolol llolokookwqwqwwqwqwqol
+=======
+test
+>>>>>>> 77bfcb1e9895719d472c92e6089a9682e7ada036
